@@ -1,17 +1,16 @@
 ---
-title: _"Spatial ABM to model maritime connectivity in the pre-historic Eastern Mediterranean"_
-author: "Georgios Leventis"
-date: "27/11/2019"
-output: html_document
+title: "Spatial ABM to model maritime connectivity in the pre-historic Eastern Mediterranean"
+author:
+  - name: Georgios Leventis
+    affiliation: Cyprus University of Technology, Cyprus
+    email: georgios.leventis@cut.ac.cy	
+    orcid: 0000-0000-0000-0000
+abstract: |
+   The study examines the use of present-day geospatial data and advanced computational techniques to study maritime human movement during the early Holocene in the Eastern Mediterranean. As we examine a prehistoric time for which there are no available data, apart from few documented assumptions which can be found nowadays regarding vessel travel details (duration, path, etc.), this topic is considered challenging for both geoscientists and archaeologists.
+output:
+  ceurticles::twocolpceurws_article
+bibliography: samplebib.bib
 ---
-<style>
-body {
-text-align: justify}
-</style>
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Topic
 
